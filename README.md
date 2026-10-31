@@ -18,8 +18,6 @@ Nel nostro caso l'accesso alle tabelle riferite ai tavoli, elementi del menu e c
 
 ---------------------------------------------------------------------------
 
-# Progetto_PAWM
-
 Front-end implemented using Angular, with a Firebase (Realtime Database) back-end.
 
 Front-end sections:
